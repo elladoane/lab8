@@ -1,0 +1,12 @@
+{
+  "messages": [
+    {
+      "id": "43c8",
+      "name": "Ella",
+      "email": "ella@dal.ca",
+      "subject": "yest",
+      "message": "testing",
+      "consent": true
+    }
+  ]
+}
